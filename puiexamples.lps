@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="puiexamples.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uuiexamples.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="129"/>
+        <CursorPos X="36" Y="150"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="90" Column="3" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="93" Column="3" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="72" Column="25" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="73" Column="25" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="75" Column="25" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="107" Column="48" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="108" Column="48" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="107" Column="48" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="109" Column="46" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="116" Column="46" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="85" Column="44" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="79" Column="49" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="80" Column="49" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="79" Column="49" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="80" Column="49" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="81" Column="58" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="82" Column="58" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="83" Column="58" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="85" Column="58" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="112" Column="50" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="113" Column="50" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="115" Column="50" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="127" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="128" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="129" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="130" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="131" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="132" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="134" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="uuiexamples.pas"/>
+        <Caret Line="146" Column="3" TopLine="129"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
